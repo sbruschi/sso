@@ -1,1 +1,1 @@
-web: gunicorn ssorepo.wsgi --log-file -
+web: gunicorn sso.wsgi --log-file -
